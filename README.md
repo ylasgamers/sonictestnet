@@ -1,3 +1,4 @@
+- If You Want Reshare, Please Dont Forget Add @ylasgamers Thanks!
 - First You Need Like This
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/6iDuOGpDRFCoGCWE4XRXmQ.png)](https://github.com/ylasgamers/sonictestnet)
 
