@@ -8,4 +8,4 @@
 ```
 python -m pip install -r requirements.txt
 ```
-[![YLAS GAMERS](https://img001.prntscr.com/file/img001/JtqYUfEnTPSGhrBZZyanzg.png)](https://github.com/ylasgamers/sonictestnet)
+[![YLAS GAMERS](https://img001.prntscr.com/file/img001/E7Xsc27PQwmpgdiUZNuMVA.png)](https://github.com/ylasgamers/sonictestnet)
