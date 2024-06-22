@@ -32,3 +32,8 @@ ENDPOINTS = (
 )
 ```
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/VUH4ItHgRryh0Un08j1k-A.png)](https://github.com/ylasgamers/sonictestnet)
+
+- Add List Privatekey On pvkeylist.txt
+- Now You Can Run With Command python txmultisol.py On Terminal
+- If Success You Will Get Result Like Below
+[![YLAS GAMERS](https://img001.prntscr.com/file/img001/BUejC074SjSW4-q1wrZxsQ.png)](https://github.com/ylasgamers/sonictestnet)
