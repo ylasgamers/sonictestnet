@@ -6,6 +6,7 @@ def log(txt):
     f.close()
 
 print("Auto Generate Wallet Solana With Privatekey | @ylasgamers")
+print("Wallet Will Saved To Text File & Print On Terminal")
 loop = input("How Many You Want To Generate Wallet ? : ")
 for i in range(0,int(loop)):
     keyreceiver = Keypair() #generate random privatekey
